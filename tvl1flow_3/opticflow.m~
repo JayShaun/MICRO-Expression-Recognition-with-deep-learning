@@ -1,0 +1,29 @@
+function opticflow(frames_path, output_path)
+
+frames = dir(frames_path);
+frames = frames(3:end);
+frames = sortObj(frames);
+num_frames = size(frames, 1);
+compare_source_idx =1;
+compare_target_idx = 2;
+flow_idx = 1;
+system_str = "./tvl1flow "
+for i = 1: num_frames
+    
+    compare_source = image_array(compare_source_idx, :)
+    compare_target = image_array(compare_target_idx, :)
+    
+    system_str = [system_str, compare_source, " " , compare_target, " ", strtrim(array_for_flow_output(element+1, :)), int2str(flow_idx), ".flo"]
+    system_str = [system_str]
+    system("chmod +x tvl1flow")
+    
+    [status, output] = system(system_str)
+
+    compare_source_idx++
+    compare_target_idx++
+    if compare_target_idx > length(image_array(:, 1))
+        compare_target_idx = 1
+    end
+    flow_idx++
+    disp([int2str(element), '/', length(image_array(:,1))])
+end
