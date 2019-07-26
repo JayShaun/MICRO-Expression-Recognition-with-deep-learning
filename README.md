@@ -8,7 +8,9 @@ python 3.6
 Keras (tensorflow as backend)
 ## Files:
 TIM-temporal-interpolation-model-master contains interpolation programs to preprocess data.
+
 tvl1flow_3 is the package for computing optical flow and optical strain.
+
 Recognition-Experiment contains model and training files.
 
 ## How to run:
