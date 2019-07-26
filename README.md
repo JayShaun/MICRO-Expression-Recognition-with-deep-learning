@@ -4,7 +4,9 @@ Main stream of the model:
 ![image](https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning/blob/master/Recognition_Experiments/model.png)
 ## Environment：
 matlab 2015b
+
 python 3.6
+
 Keras (tensorflow as backend)
 ## Files:
 TIM-temporal-interpolation-model-master contains interpolation programs to preprocess data.
