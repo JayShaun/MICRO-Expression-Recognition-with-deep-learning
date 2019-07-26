@@ -1,7 +1,7 @@
 # MICRO-Expression-Recognition-with-deep-learning
 Main stream of the model:
 
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning/blob/master/Recognition_Experiments/model.png)
 ## Environment：
 matlab 2015b
 python 3.6
