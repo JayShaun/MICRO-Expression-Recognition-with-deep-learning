@@ -23,6 +23,6 @@ Recognition-Experiment contains model and training files.
 5. when your data is ready, run train.py
 
 ## Result:
-I have train the model for 1000 epoch and the accuracy is arround 70%.
+I have trained the model for 1000 epochs and the accuracy is arround 70%.
 If you need my pretrained model, contact me. And I will upload it to cloud disk later.
 by zxl
