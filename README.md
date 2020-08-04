@@ -2,6 +2,7 @@
 Main stream of the model:
 
 ![image](https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning/blob/master/Recognition_Experiments/model.png)
+
 Origin paper: Enriched Long-term Recurrent Convolutional Network for Facial Micro-Expression Recognition
 Ref code: https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning
 ## Environment：
