@@ -3,9 +3,9 @@ Main stream of the model:
 
 ![image](https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning/blob/master/Recognition_Experiments/model.png)
 
-Origin paper: Enriched Long-term Recurrent Convolutional Network for Facial Micro-Expression Recognition
+Related paper: Enriched Long-term Recurrent Convolutional Network for Facial Micro-Expression Recognition
 
-Ref code: https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning
+Related code: https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning
 ## Environment：
 matlab 2015b
 
@@ -32,3 +32,5 @@ If you need my pretrained model, contact me. And I will upload it to cloud disk 
 
 ## Updates:
 Pretrained model on CASMEII:
+link：https://pan.baidu.com/s/1E3_sIE9wZSduW6RIDm42iA 
+ key：1234
