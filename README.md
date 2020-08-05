@@ -28,9 +28,9 @@ Recognition-Experiment contains model and training files.
 
 ## Result:
 I have trained the model for 1000 epochs and the accuracy is arround 70%.
-If you need my pretrained model, contact me. And I will upload it to cloud disk later.
+If you need the model, contact me. And I will upload it to cloud disk later.
 
 ## Updates:
-Pretrained model on CASMEII:
+Trained on CASMEII:
 link：https://pan.baidu.com/s/1E3_sIE9wZSduW6RIDm42iA 
  key：1234
